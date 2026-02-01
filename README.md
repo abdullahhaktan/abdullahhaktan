@@ -1,4 +1,4 @@
-<h1 align="center">👋 Merhaba, ben Abdullah Haktan</h1>
+<h1 align="center"> Abdullah Haktan</h1>
 
 <p align="center">
 🎓 Bilgisayar Mühendisi | 💻 Full-Stack .NET Developer | 🤖 AI & Backend Enthusiast  
