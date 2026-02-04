@@ -123,7 +123,7 @@ _Ağustos 2025 – Şubat 2026_
 ## 📫 İletişim
 - 📧 **Mail:** abdullahhaktan9@gmail.com  
 - 🌐 **Web:** https://abdullahhaktan.com.tr | https://abdullahhaktan.com.tr/Default/AbdullahhaktanCV
-- 💼 **LinkedIn:** Abdullah Haktan
+- 💼 **LinkedIn:** https://www.linkedin.com/in/abdullah-haktan-6186161b7/
 
 ---
 
