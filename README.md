@@ -26,14 +26,14 @@ Eğitim hayatım boyunca ağırlıklı olarak **ASP.NET Core / MVC**, **C#**, **
 
 ## 🧑‍💻 Deneyim
 
-### 💼 Yazılım Geliştirici Stajyer  
+### 💼 Yazılım Mühendisi Stajyer  
 **DOF Robotics A.Ş. – İstanbul**  
 _Şubat 2025 – Haziran 2025_
 
+- Müşteriye gidecek kameralar için **Camera Installer** (C# .NET) geliştirilmesi
 - Python, C# ve .NET ağırlıklı backend geliştirme
 - AI karakteri üreten **AIQ** makinesinin sunucu tarafında çalışma
 - Test scriptleri yazarak sunucu hatalarının giderilmesi
-- Müşteriye gidecek kameralar için **Camera Installer** (C# .NET) geliştirilmesi
 
 ---
 
