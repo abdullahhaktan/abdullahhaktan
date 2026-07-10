@@ -8,7 +8,6 @@
 • <a href="https://abdullahhaktan.com.tr">🌐 Web Sitem</a>
 • <a href="https://abdullahhaktan.com.tr/Default/AbdullahhaktanCV">🌐 Portfolyo</a>
 • <a href="https://www.linkedin.com/in/abdullah-haktan-6186161b7/">🌐 LinkedIn</a>
-• <a href="https://github.com/abdullahhaktan">🐙 GitHub</a>
 </p>
 
 ---
