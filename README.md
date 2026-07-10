@@ -105,7 +105,7 @@ _Şubat 2025 – Haziran 2025_
 ### 🧑‍🎨 Portfolio Sistemi
 - **Teknolojiler:** N-Tier Architecture, Repository Pattern, Fluent Validation, Identity.
 - **Özellikler:** Admin, Yazar ve Vitrin panellerine sahip; CRUD ve LINQ ile güvenli veri yönetimi sunan canlı portfolyo projesi.  
-🔗 **Canlı Link:** [abdullahhaktan.com.tr](https://abdullahhaktan.com.tr)
+🔗 **Canlı Link:** [abdullahhaktan.com.tr/Default/AbdullahHaktanCV](abdullahhaktan.com.tr/Default/AbdullahHaktanCV)
 
 ---
 
@@ -116,7 +116,7 @@ _Şubat 2025 – Haziran 2025_
 
 ## 📫 İletişim
 - 📧 **E-posta:** abdullahhaktan9@gmail.com  
-- 🌐 **Web & Portfolyo:** [abdullahhaktan.com.tr](https://abdullahhaktan.com.tr)
+- 🌐 **Web & Portfolyo:** [abdullahhaktan.com.tr/Default/AbdullahHaktanCV](abdullahhaktan.com.tr/Default/AbdullahHaktanCV)
 - 💼 **LinkedIn:** [linkedin.com/in/abdullah-haktan-6186161b7/](https://www.linkedin.com/in/abdullah-haktan-6186161b7/)
 - 🐙 **GitHub:** [github.com/abdullahhaktan](https://github.com/abdullahhaktan)
 
